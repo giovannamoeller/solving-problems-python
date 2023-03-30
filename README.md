@@ -1,2 +1,10 @@
-# Solving Programming Problems with Python
+# Solving Problems with Python
 Solving problems from LeetCode, AlgoExpert and HackerRank using Python language. 
+
+## Problems Solved
+
+### LeetCode
+
+### AlgoExpert
+
+### HackerRank
