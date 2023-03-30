@@ -5,6 +5,8 @@ Solving problems from LeetCode, AlgoExpert and HackerRank using Python language.
 
 ### LeetCode
 
+- [01 - Two Sum](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/01-two-sum.py)
+
 ### AlgoExpert
 
 ### HackerRank
