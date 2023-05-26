@@ -10,6 +10,7 @@ Solving problems from LeetCode, AlgoExpert and HackerRank using Python language.
 - [27 - Remove Element](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/27-remove-element.py)
 - [35 - Search Insert Position](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/35-search-insert-position.py)
 - [217 - Contains Duplicate](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/217-contains-duplicate.py)
+- [242 - Valid Anagram](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/242-valid-anagram.py)
 - [278 - First Bad Version](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/278-first-bad-version.py)
 - [704 - Binary Search](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/704-binary-search.py)
 - [724 - Find Pivot Index](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/724-find-pivot-index.py)
