@@ -1,11 +1,13 @@
 # Solving Problems with Python
-Solving problems from LeetCode, AlgoExpert and HackerRank using Python language. 
+Solving problems from LeetCode and AlgoExpert using Python language. 
 
 ## Problems Solved
 
 ### LeetCode
 
 - [01 - Two Sum](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/01-two-sum.py)
+- [13 - Roman to Integer](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/13-roman-to-integer.py)
+- [14 - Longest Common Prefix](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/14-longest-common-prefix.py)
 - [26 - Remove Duplicates from Sorted Array](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/26-remove-duplicates-from-sorted-array.py)
 - [27 - Remove Element](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/27-remove-element.py)
 - [35 - Search Insert Position](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/35-search-insert-position.py)
@@ -18,5 +20,3 @@ Solving problems from LeetCode, AlgoExpert and HackerRank using Python language.
 - [1480 - Running Sum of 1D Array](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/1480-running-sum-of-1d-array.py)
 
 ### AlgoExpert
-
-### HackerRank
