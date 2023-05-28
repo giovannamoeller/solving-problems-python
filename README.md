@@ -8,6 +8,7 @@ Solving problems from LeetCode and AlgoExpert using Python language.
 - [01 - Two Sum](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/01-two-sum.py)
 - [13 - Roman to Integer](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/13-roman-to-integer.py)
 - [14 - Longest Common Prefix](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/14-longest-common-prefix.py)
+- [20 - Valid Parentheses](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/20-valid-parentheses.py)
 - [26 - Remove Duplicates from Sorted Array](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/26-remove-duplicates-from-sorted-array.py)
 - [27 - Remove Element](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/27-remove-element.py)
 - [35 - Search Insert Position](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/35-search-insert-position.py)
