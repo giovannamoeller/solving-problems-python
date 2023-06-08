@@ -16,6 +16,7 @@ Solving problems from LeetCode and AlgoExpert using Python language.
 - [35 - Search Insert Position](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/35-search-insert-position.py)
 - [66 - Plus One](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/66-plus-one.py)
 - [69 - Sqrt(x)](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/69-sqrt-x.py)
+- [88 - Merge Sorted Array](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/88-merge-sorted-array.py)
 - [125 - Valid Palindrome](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/125-valid-palindrome.py)
 - [151 - Reverse Words in a String](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/151-reverse-words-in-a-string.py)
 - [167 - Two Sum II - Input Array Is Sorted](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/167-two-sum-II-input-array-is-sorted.py)
