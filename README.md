@@ -1,5 +1,5 @@
 # Solving Problems with Python
-Solving problems from LeetCode and AlgoExpert using Python language. 
+Solving problems from LeetCode using Python language. 
 
 ## Problems Solved
 
@@ -29,5 +29,3 @@ Solving problems from LeetCode and AlgoExpert using Python language.
 - [724 - Find Pivot Index](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/724-find-pivot-index.py)
 - [977 - Squares of a Sorted Array](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/977-squares-of-a-sorted-array.py)
 - [1480 - Running Sum of 1D Array](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/1480-running-sum-of-1d-array.py)
-
-### AlgoExpert
