@@ -30,4 +30,5 @@ Solving problems from LeetCode using Python language.
 - [713 - Subarray Product Less Than K](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/713-subarray-product-less-than-k.py)
 - [724 - Find Pivot Index](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/724-find-pivot-index.py)
 - [977 - Squares of a Sorted Array](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/977-squares-of-a-sorted-array.py)
+- [1004 - Max Consecutive Ones III](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/1004-max-consecutive-ones-III.py)
 - [1480 - Running Sum of 1D Array](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/1480-running-sum-of-1d-array.py)
