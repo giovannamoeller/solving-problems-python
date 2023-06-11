@@ -31,5 +31,6 @@ Solving problems from LeetCode using Python language.
 - [724 - Find Pivot Index](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/724-find-pivot-index.py)
 - [977 - Squares of a Sorted Array](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/977-squares-of-a-sorted-array.py)
 - [1004 - Max Consecutive Ones III](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/1004-max-consecutive-ones-III.py)
+- [1413 - Minimum Value to Get Positive Step by Step Sum](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/1413-minimum-value-to-get-positive-step-by-step-sum.py)
 - [1480 - Running Sum of 1D Array](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/1480-running-sum-of-1d-array.py)
 - [2270 - Number of Ways to Split Array](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/2270-number-of-ways-to-split-array.py)
