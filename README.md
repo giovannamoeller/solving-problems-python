@@ -25,6 +25,7 @@ Solving problems from LeetCode using Python language.
 - [278 - First Bad Version](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/278-first-bad-version.py)
 - [344 - Reverse String](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/344-reverse-string.py)
 - [392 - Is Subsequence](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/392-is-subsequence.py)
+- [643 - Maximum Average Subarray I](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/643-maximum-average-subarray-I.py)
 - [704 - Binary Search](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/704-binary-search.py)
 - [713 - Subarray Product Less Than K](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/713-subarray-product-less-than-k.py)
 - [724 - Find Pivot Index](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/724-find-pivot-index.py)
