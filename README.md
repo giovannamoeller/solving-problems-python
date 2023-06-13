@@ -36,6 +36,7 @@ Solving problems from LeetCode using Python language.
 - [977 - Squares of a Sorted Array](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/977-squares-of-a-sorted-array.py)
 - [1004 - Max Consecutive Ones III](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/1004-max-consecutive-ones-III.py)
 - [1413 - Minimum Value to Get Positive Step by Step Sum](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/1413-minimum-value-to-get-positive-step-by-step-sum.py)
+- [1426 - Counting Elements](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/1426-counting-elements.py)
 - [1480 - Running Sum of 1D Array](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/1480-running-sum-of-1d-array.py)
 - [1768 - Merge Strings Alternately](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/1768-merge-strings-alternately.py)
 - [1832 - Check if the Sentence Is Pangram](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/1832-check-if-sentence-is-pangram.py)
