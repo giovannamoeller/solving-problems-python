@@ -40,6 +40,7 @@ Solving problems from LeetCode using Python language.
 - [1480 - Running Sum of 1D Array](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/1480-running-sum-of-1d-array.py)
 - [1768 - Merge Strings Alternately](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/1768-merge-strings-alternately.py)
 - [1832 - Check if the Sentence Is Pangram](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/1832-check-if-sentence-is-pangram.py)
+- [1941 - Check if All Characters Have Equal Number of Occurrences](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/1941-check-if-all-characters-have-equal-number-of-occurrences.py)
 - [2090 - K Radius Subarray Averages](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/2090-k-radius-subarray-averages.py)
 - [2248 - Intersection of Multiple Arrays](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/2248-intersection-of-multiple-arrays.py)
 - [2270 - Number of Ways to Split Array](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/2270-number-of-ways-to-split-array.py)
