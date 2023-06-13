@@ -22,6 +22,7 @@ Solving problems from LeetCode using Python language.
 - [167 - Two Sum II - Input Array Is Sorted](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/167-two-sum-II-input-array-is-sorted.py)
 - [217 - Contains Duplicate](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/217-contains-duplicate.py)
 - [242 - Valid Anagram](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/242-valid-anagram.py)
+- [268 - Missing Number](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/268-missing-number.py)
 - [278 - First Bad Version](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/278-first-bad-version.py)
 - [283 - Move Zeroes](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/283-move-zeroes.py)
 - [344 - Reverse String](https://github.com/giovannamoeller/solving-problems-python/blob/main/leetcode/344-reverse-string.py)
